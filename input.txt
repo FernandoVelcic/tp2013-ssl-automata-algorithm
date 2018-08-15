@@ -1,0 +1,8 @@
+aab
+aa0b
+aa1b
+aabbb
+aa01bbbbb
+aaa000bbb
+aa010b
+aa010bb
